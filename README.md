@@ -1,4 +1,4 @@
-# Uber Clone with React Native and TypeScript
+# Taxi app with React Native and TypeScript
 
 
 
